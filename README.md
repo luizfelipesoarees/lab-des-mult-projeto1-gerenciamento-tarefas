@@ -64,8 +64,8 @@ CREATE TABLE tarefa (
 
 ### 3. Configurar Credenciais (Properties)
 Para manter a segurança, as credenciais originais não estão no repositório. Siga estas etapas:
-1. Localize o arquivo `src/main/resources/application.properties.example`.
-2. Renomeie-o para `application.properties`.
+1. Localize o arquivo `src/main/resources/application.properties.example`
+2. Renomeie-o para `application.properties`
 3. Preencha as informações conforme seu ambiente local:
 
 ```properties
@@ -103,4 +103,4 @@ Para rodar os testes, utilize o comando:
 ```bash
 ./mvnw test
 ```
-Você tambmém pode iniciar o projeto pelo arquivo Labdesmultprojeto1gerenciamentotarefasApplicationTests
+Você tambmém pode iniciar os testes pelo arquivo Labdesmultprojeto1gerenciamentotarefasApplicationTests

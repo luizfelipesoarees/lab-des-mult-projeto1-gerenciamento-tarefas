@@ -1,0 +1,79 @@
+# =========================
+# Maven / Build
+# =========================
+target/
+.mvn/
+mvnw
+mvnw.cmd
+.mvn/wrapper/maven-wrapper.jar
+
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# =========================
+# Secrets (NUNCA subir)
+# =========================
+.env
+.env.*
+application.properties
+
+# =========================
+# Spring Boot / logs
+# =========================
+*.log
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# NetBeans
+# =========================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# =========================
+# Eclipse / STS
+# =========================
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# =========================
+# IntelliJ HTTP / cache extras
+# =========================
+httpRequests/
+queries/
+dataSources/
+dataSources.local.xml
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Help file
+# =========================
+HELP.md

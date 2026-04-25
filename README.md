@@ -103,4 +103,4 @@ Para rodar os testes, utilize o comando:
 ```bash
 ./mvnw test
 ```
-Você tambmém pode iniciar os testes pelo arquivo Labdesmultprojeto1gerenciamentotarefasApplicationTests
+Você também pode iniciar os testes pelo arquivo: Labdesmultprojeto1gerenciamentotarefasApplicationTests

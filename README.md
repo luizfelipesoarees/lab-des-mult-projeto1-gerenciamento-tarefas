@@ -1,3 +1,5 @@
-# lab-des-mult-projeto1-gerenciamento-tarefas
+# Projeto Avaliativo 1º Bimestre Lab. Des. Multiplataforma - Gerenciador de Tarefas
 
-testando git
+Alunos:
+Henrique Almeida Florentino
+Luiz Felipe Vieira Soares

@@ -80,7 +80,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 ```
 
 ### 4. Rodar a Aplicação
-Você pode iniciar o projeto pela sua IDE de preferência ou via terminal:
+Você pode iniciar o projeto pela sua IDE de preferência outilizando o arquivo **Labdesmultprojeto1gerenciamentotarefasApplication**
 
 A API estará disponível em: `http://localhost:8080` ou utilize outra porta caso essa esteja em uso.
 

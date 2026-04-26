@@ -70,7 +70,7 @@ Para manter a segurança, as credenciais originais não estão no repositório. 
 
 ```properties
 spring.application.name=labdesmultprojeto1gerenciamentotarefas
-spring.datasource.url=jdbc:postgresql://localhost:XXXX/tarefas
+spring.datasource.url=jdbc:postgresql://localhost:5432/tarefas
 spring.datasource.username=SEU_USUARIO
 spring.datasource.password=SUA_SENHA
 

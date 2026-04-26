@@ -81,10 +81,8 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
 ### 4. Rodar a Aplicação
 Você pode iniciar o projeto pela sua IDE de preferência ou via terminal:
-```bash
-./mvnw spring-boot:run
-```
-A API estará disponível em: `http://localhost:8080`
+
+A API estará disponível em: `http://localhost:8080` ou utilize outra porta caso essa esteja em uso.
 
 ---
 
@@ -99,8 +97,4 @@ A confiabilidade do código é garantida por testes de integração que cobrem t
     * Fluxo de atualização de status e dados.
     * Exclusão de registros do banco de dados.
 
-Para rodar os testes, utilize o comando:
-```bash
-./mvnw test
-```
-Você também pode iniciar os testes pelo arquivo: Labdesmultprojeto1gerenciamentotarefasApplicationTests
+Para rodar os testes, utilize o arquivo: Labdesmultprojeto1gerenciamentotarefasApplicationTests
